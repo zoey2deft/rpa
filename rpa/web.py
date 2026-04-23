@@ -1,8 +1,9 @@
 import requests
 import datetime
-#测试sshfyuf
+
 URLS = [
     "https://fourddecision-backend.onrender.com/api/hello",
+    "https://4ddecision-production.up.railway.app/api/hello",
     
 ]
 
